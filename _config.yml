@@ -3,9 +3,10 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Senior Technology & Business Consultant
   <br><br>
-  I`m a creative and energetic developer
+  I am a creative and energetic developer
   <br><br>
-  <a href="https://www.linkedin.com/in/fabian-bofill-238a025a/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/fabian-bofill-238a025a/" target="_blank">View My LinkedIn Profile</a> 
+  
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
